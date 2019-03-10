@@ -13,7 +13,10 @@
   "author": "Michael Borde",
   "license": "MIT",
   "dependencies": {
-    "glob": "7.1.3"
+    "glob": "7.1.3",
+    "mkdirp": "0.5.1",
+    "moment": "2.24.0",
+    "node-exiftool": "2.3.0"
   },
   "devDependencies": {
     "eslint": "5.15.1",
